@@ -1,0 +1,43 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "About"
+url = "/about"
+weight = 2
+
+[[main]]
+name = "Blog"
+url = "/blog"
+weight = 3
+
+[[main]]
+name = "Categories"
+url = "/categories"
+weight = 4
+
+[[main]]
+name = "Contact"
+url = "/contact"
+weight = 3
+
+[[main]]
+name = "Download CV"
+url = "https://drive.google.com/uc?export=download&id=1I79uHPKgEugMy-3shJ6-GNYMWtVsLwpm"
+weight = 4
+
+# footer menu
+[[footer]]
+name = "About"
+url = "/about"
+weight = 1
+
+[[footer]]
+name = "Privacy Policy"
+url = "/privacy-policy"
+weight = 3
